@@ -17,3 +17,6 @@ hyväksymättömien avaimien listassa, josta sen hyväksyin. Tarkistin vielä et
     orja:
         10.0.2.15 192.168.88.102
     
+## Git
+
+Seuraavaksi asensin herralle gitin ja kloonasin sille Githubiin tekemäni LAMP-varaston.
