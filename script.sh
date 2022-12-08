@@ -16,6 +16,5 @@ sudo mkdir /srv/salt/
 sudo cp -R apache /srv/salt/
 sudo cp -R mariadb /srv/salt/
 
-sudo salt-call --local state.apply apache
-sudo salt-call --local state.apply mariadb
+sudo salt-call --local state.apply
 
