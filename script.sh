@@ -15,6 +15,7 @@ echo "Luodaan kansio /srv/salt/ ja kopioidaan tiedostot.."
 sudo mkdir /srv/salt/
 sudo cp -R apache /srv/salt/
 sudo cp -R mariadb /srv/salt/
+sudo cp -R python /srv/salt/
 sudo cp top.sls /srv/salt/
 
 sudo salt-call --local state.apply
