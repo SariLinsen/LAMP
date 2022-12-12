@@ -3,13 +3,15 @@ Miniprojekti kurssille ICT4TN022-3018 Configuration Management Systems - Palveli
 
 Tämän moduulin tarkoituksena on asentaa Linux-koneelle Apache, MariaDb ja Python.
 
+Lisenssi: GNU General Public License v3.0
+
 ## Moduulin tarkoitus:
 
-- Asentaa Apache2 ja päivittää sen oletussivun hello worldiksi. Luodaan myös kotihakmeistoon public_html-kansio, jossa käyttäjä voi halutessaan aloittaa omien kotisivujensa tekemisen luomalla sinne index.html-tiedoston
+- Asentaa Apache2 ja päivittää sen oletussivun hello worldiksi. Luodaan myös kotihakemistoon public_html-kansio, jossa käyttäjä voi halutessaan aloittaa omien kotisivujensa tekemisen luomalla sinne index.html-tiedoston
 
 - Asentaa MariaDB
 
-- Asentaa Python3 ja siihen skriptin (today.py)
+- Asentaa Python3 ja siihen komennon (today.py)
 
 ## Ohjeet moduulin asennukseen komentokehotteessa:
 
