@@ -23,7 +23,7 @@ Tämän moduulin tarkoituksena on asentaa Linux-koneelle Apache, MariaDb ja Pyth
       
 - Aja tiedosto:
 
-      bash scrip.sh
+      bash script.sh
       
       
 Apachen asentumisen voit testata selaimessa https://localhost sekä https://localhost/~*käyttäjänimesi*. Mariadb on asennettu ja sen käyttöä voit jatkaa esimerkiksi Tero karvisen ohjeilla https://terokarvinen.com/2018/install-mariadb-on-ubuntu-18-04-database-management-system-the-new-mysql/?fromSearch=mariadb. Antamalla komennon `today.py` komentokehote kertoo sinulle tämän päivämäärän. 
