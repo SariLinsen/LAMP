@@ -11,7 +11,7 @@ Tämän moduulin tarkoituksena on asentaa Linux-koneelle Apache, MariaDb ja Pyth
 
 - Asentaa Python3 ja siihen skriptin (today.py)
 
-## Ohjeet:
+## Ohjeet moduulin asennukseen komentokehotteessa:
 
 - Moduulin käyttämiseen tarvitaan wget. Sen saa asennettua:
   
@@ -26,4 +26,8 @@ Tämän moduulin tarkoituksena on asentaa Linux-koneelle Apache, MariaDb ja Pyth
       bash script.sh
       
       
-Apachen asentumisen voit testata selaimessa https://localhost sekä https://localhost/~*käyttäjänimesi*. Mariadb on asennettu ja sen käyttöä voit jatkaa esimerkiksi Tero karvisen ohjeilla https://terokarvinen.com/2018/install-mariadb-on-ubuntu-18-04-database-management-system-the-new-mysql/?fromSearch=mariadb. Antamalla komennon `today.py` komentokehote kertoo sinulle tämän päivämäärän. 
+Apachen asentumisen voit testata selaimessa `https://localhost` sekä kotisivusi `https://localhost/~*käyttäjänimesi*/`. Mariadb on asennettu ja sen käyttöä voit jatkaa esimerkiksi Tero karvisen ohjeilla https://terokarvinen.com/2018/install-mariadb-on-ubuntu-18-04-database-management-system-the-new-mysql/?fromSearch=mariadb. Antamalla komennon `today.py` komentokehote kertoo sinulle tämän päivämäärän. 
+
+![image](https://user-images.githubusercontent.com/113497086/207040693-bd769d15-a560-4c88-9b81-7b3401fd4d34.png)
+
+Lisätiedot moduulista: https://github.com/SariLinsen/PalvelintenHallinta/blob/main/moduuliraportti.md
